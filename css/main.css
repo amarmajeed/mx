@@ -1,0 +1,31 @@
+.loginform{
+	padding-top:100px;
+	}
+.loginform input[type=email]{
+	width:400px;
+	padding:5px 10px;
+	}
+.loginform input[type=password]{
+	width:400px;
+	padding:5px 10px;
+}
+ul li a{
+	text-transform:uppercase;
+}	
+footer{
+	background:#f8f8f8;
+	border-top:2px solid #e7e7e7; 
+	padding:20px 0px;
+	position:relative;
+	bottom:0px;
+	}
+h2{
+	padding-bottom:30px; 
+	vertical-align:middle; 
+	padding-top:150px;  
+	text-align:center;
+	}
+.error {
+  color: #ff0000;
+  font-weight:normal;
+}
